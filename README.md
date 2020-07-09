@@ -1,3 +1,3 @@
 # insta_paper
 
-Figures for the In Situ Sequencing and Transcriptomics Annotation Paper (INSTA)
+Figures for the _In Situ_ Transcriptomics Annotation (INSTA) Pipeline paper
