@@ -89,7 +89,7 @@ tqdm==4.56.0
 trackpy==0.4.2
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1602771532708/work
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
-urllib3==1.26.2
+urllib3==1.26.3
 validators==0.18.2
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 webencodings==0.5.1
