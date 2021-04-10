@@ -52,7 +52,7 @@ testpath==0.4.4
 tifffile==2021.1.14
 tqdm==4.56.0
 trackpy==0.4.2
-urllib3==1.26.3
+urllib3==1.26.4
 validators==0.18.2
 webencodings==0.5.1
 widgetsnbextension==3.5.1
