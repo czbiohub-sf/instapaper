@@ -11,4 +11,4 @@ Main dependencies:
 
 A requirements.txt file is included with the exact versions the paper figures were generated with for reproducibility.
 
-`pip install -r reproduce_paper_environment.txt`
+`pip3 install -r reproduce_paper_environment.txt`
