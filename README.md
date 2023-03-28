@@ -1,6 +1,6 @@
 # instapaper
 
-Figures for the [_In Situ_ Transcriptomics Annotation (INSTA) Pipeline paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009274)
+Figures for the paper [Validation and tuning of _in situ_ transcriptomics image processing workflows with crowdsourced annotations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009274)
 
 This repository is owned by the Bioengineering Platform.
 
