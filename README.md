@@ -1,6 +1,8 @@
 # instapaper
 
-Figures for the [_In Situ_ Transcriptomics Annotation (INSTA) Pipeline paper] (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009274)
+Figures for the [_In Situ_ Transcriptomics Annotation (INSTA) Pipeline paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009274)
+
+This repository is owned by the Bioengineering Platform.
 
 ## Installation
 Install the `instapipeline` package, which can be found here along with installation instructions: https://github.com/czbiohub/instapipeline.
